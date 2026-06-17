@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou o Kaynan 👋
 
-<!--
-**KaynanCode/KaynanCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- Estou aprendendo JavaScript, HTML e CSS.
+- Sou iniciante em programação.
+- Quero criar meus próprios projetos e jogos.
+- No futuro pretendo aprender React.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
+
+## Objetivos
+- Aprender JavaScript
+- Criar sites com HTML e CSS
+- Aprender React
+- Desenvolver projetos próprios
+
+## Contato
+Em breve...
