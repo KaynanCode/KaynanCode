@@ -8,7 +8,7 @@
 
 ## Tecnologias que estou estudando
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,csharp)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c#)
 
 ## Objetivos
 - Aprender JavaScript
